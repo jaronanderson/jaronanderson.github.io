@@ -1,13 +1,13 @@
+
+
 @import url('https://fonts.googleapis.com/css?family=Kalam|Righteous|Inconsolata');
 body {
 	background-color: #BEC4C5;
 }
 h1, h2, h3 {
-	
 	color: #000000;
 	font-family: "Righteous";
-	
-}
+	}
 p {
 	font-family: "Kalam";
 }
