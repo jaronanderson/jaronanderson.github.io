@@ -27,3 +27,6 @@ a {
 a:hover {
 	color: #0000FF;
 }
+img {
+	border-color: #000000;
+}
