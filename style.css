@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Kalam|Righteous|Inconsolata');
+body {
+	background-color: #959595;
+}
+h1, h2, h3 {
+	
+	color: #000000;
+	font-family: "Righteous";
+	
+}
+p {
+	font-family: "Kalam";
+}
+.headerspan {
+	background-color: #60E0FF;
+}
+.underline {
+	text-decoration: underline;
+}
+ol, ul {
+	font-family: "Inconsolata";
+}
