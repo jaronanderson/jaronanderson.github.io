@@ -1,4 +1,4 @@
-
+@import url("resettest.css");
 
 @import url('https://fonts.googleapis.com/css?family=Kalam|Righteous|Inconsolata');
 body {
@@ -29,7 +29,22 @@ a:hover {
 	color: #60E0FF;
 }
 img {
-	border-color: #000000;
+	border-color: #60E0FF;
 	border-style: solid;
 	border-width: 3px;
+	border-spacing: 10px;
+}
+.portfolio {
+	display: inline-block;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 5px;
+}
+.portfolio img {
+	height: 250px;
+	width: 245px;
+	margin: 10px 10px 10px 10px;
+}
+.portfolio p {
+	text-align: center;
 }
