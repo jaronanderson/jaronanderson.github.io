@@ -60,3 +60,25 @@ img {
 	padding: 5px;
 	width: 50%;
 }
+.infobox {
+	width: 250px ;
+	margin: 0 auto;
+	text-align: center;
+}
+.responsivepage {
+	text-align: center;
+}
+.yourinfo{
+margin: 0 auto;
+}
+@media (max-width: 500px) {
+
+	/* Mobile styles */
+	.infobox {
+		width: 100% ;
+		margin: 0 auto;
+		text-align: center;
+	}
+	
+
+}
