@@ -1,5 +1,3 @@
-@import url("resettest.css");
-
 @import url('https://fonts.googleapis.com/css?family=Kalam|Righteous|Inconsolata');
 
 
@@ -38,6 +36,10 @@ img {
 	border-style: solid;
 	border-width: 3px;
 	border-spacing: 10px;
+}
+#copyright {
+	font-family: "Righteous";
+	text-align: center;
 }
 .portfolio {
 	display: inline-block;
@@ -79,6 +81,4 @@ margin: 0 auto;
 		margin: 0 auto;
 		text-align: center;
 	}
-	
 
-}
