@@ -41,6 +41,16 @@ img {
 	font-family: "Righteous";
 	text-align: center;
 }
+#testimonial {
+	font-family: "Inconsolata";
+	text-align: center;
+	border-width: 5px;
+	border: solid;
+	padding: 5px;
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+}
 .portfolio {
 	display: inline-block;
 	margin-left: auto;
